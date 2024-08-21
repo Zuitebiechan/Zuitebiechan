@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Haoshuang
+## Nice to meet u ~ 🍉🍉
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Zuitebiechan&theme=summer">
